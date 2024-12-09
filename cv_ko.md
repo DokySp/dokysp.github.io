@@ -9,7 +9,7 @@ permalink: /cv/ko
 
 <br>
 
-<a target="_blank" href="https://doky.space/cv/en"><img src="https://img.shields.io/badge/read%20in-english-%23444444?style=for-the-badge&labelColor=111111"></a>
+<a target="_blank" href="https://doky.space/cv/en"><img src="https://img.shields.io/badge/read%20in-english-%23444444?style=for-the-badge&labelColor=111111" alt="read in english"></a>
 
 <br>
 
@@ -93,9 +93,9 @@ li::marker {
 
 <br>
 
-<a href="mailto://uhug@naver.com"><img src="https://img.shields.io/badge/e--mail-uhug@naver.com-2ACE60?style=for-the-badge&logo=maildotru"></a> <a href="https://www.linkedin.com/in/dokyoon2190/"><img src="https://img.shields.io/badge/LinkedIn-dokyoon2190-0D66C3?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:uhug@naver.com"><img src="https://img.shields.io/badge/e--mail-uhug@naver.com-2ACE60?style=for-the-badge&logo=maildotru" alt="mail to"></a> <a href="https://www.linkedin.com/in/dokyoon2190/"><img src="https://img.shields.io/badge/LinkedIn-dokyoon2190-0D66C3?style=for-the-badge&logo=linkedin" alt="linked in"></a>
 <div class="sp"></div>
-<a href="https://github.com/DokySp"><img src="https://img.shields.io/badge/github-dokysp-24282F?style=for-the-badge&logo=github"></a> <a href="https://github.com/DokySp-study"><img src="https://img.shields.io/badge/github-DokySp--study-24282F?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DokySp"><img src="https://img.shields.io/badge/github-dokysp-24282F?style=for-the-badge&logo=github" alt="github/dokysp"></a> <a href="https://github.com/DokySp-study"><img src="https://img.shields.io/badge/github-DokySp--study-24282F?style=for-the-badge&logo=github" alt="github/doky-study"></a>
 
 <!--
 ✉️ uhug@naver.com
@@ -390,7 +390,7 @@ li::marker {
 
 - 2015.03~2021.06
 - 게임 제작 동아리였으며, 아두이노와 블루투스, IMU 센서를 이용하여 가족이 함께 협동하여 문제를 해결하는 퍼즐게임의 조이스틱을 설계 및 개발했습니다.
-- [2015 Applied Game Jam 참가](http://dk.breaknews.com/75948), [행사 관련 자료](https://www.facebook.com/GPS-1032778300068497)
+- [2015 Applied Game Jam 참가](https://dk.breaknews.com/75948), [행사 관련 자료](https://www.facebook.com/GPS-1032778300068497)
 
 <br><br>
 

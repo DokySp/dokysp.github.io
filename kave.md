@@ -35,7 +35,7 @@ li::marker {
 }
 </style>
 
-<img src="https://doky.space/assets/kave/kave_logo.png" width=150px><br>
+<img src="https://doky.space/assets/kave/kave_logo.png" width=150px alt="logo"><br>
 
 <br>
 
