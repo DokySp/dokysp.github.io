@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+</head>
+
+<body style="margin: 35px;">
+    <img src="./logo.png" width="200">
+    <div style="height: 10px;"></div>
+
+    <form id="login-form">
+        <table>
+            <tr>
+                <td style="font-size: 12px;">출근시간 (0900)</td>
+                <td style="font-size: 12px;">퇴근시간 (1800)</td>
+            </tr>
+            <tr>
+                <td><input id="start" maxlength="4" type="text" placeholder="출근시간 (0900)" /></td>
+                <td><input id="end" maxlength="4" type="text" placeholder="퇴근시간 (1800)" /></td>
+            </tr>
+        </table>
+
+        <div style="height: 10px;"></div>
+
+        <table>
+            <tr>
+                <td style="font-size: 12px;">제외시간 (분)</td>
+                <td style="font-size: 12px;">식사 제외시간 (분)</td>
+            </tr>
+            <tr>
+                <td><input id="exceptT" type="text" placeholder="제외시간 (분)" /></td>
+                <td><input id="exceptLT" maxlength="4" type="text" placeholder="식사 제외시간 (분)" /></td>
+            </tr>
+        </table>
+
+        <br>
+
+        <button>계산</button>
+    </form>
+
+    <br>
+    <br>
+
+    <table>
+        <tr>
+            <td width="200">휴게시간 (계산됨):</td>
+            <td><span id="restTime">00:00</span></td>
+        </tr>
+        <tr>
+            <td>근무시간:</td>
+            <td><span id="result">00:00</span></td>
+        </tr>
+        <tr>
+            <td style="font-size: 18px; color: #1428A0;"><b>제외시간 포함 근무시간:</b></td>
+            <td style="font-size: 18px; color: #1428A0;"><b><span id="exceptResult">00:00</span></b></td>
+        </tr>
+    </table>
+
+    <script src="./calc.js"></script>
+</body>
+
+</html>
