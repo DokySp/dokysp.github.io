@@ -75,23 +75,15 @@ li::marker {
 }
 </style>
 
-<br>
-
 <font size=64>🌏</font>
 
 ## **김도균 (Dokyoon Tony Kim)**
 
-<br>
-
 > 다양한 경험을 통해 넓은 시야를 가진 사람,<br>
 > 탄탄한 기술 기반으로 주어진 문제를 해결할 수 있는 공학자가 되고 싶습니다.
 
-<br>
-
 👨‍💻 Android & Flutter Developer<br>
 🇰🇷 Republic of Korea<br>
-
-<br>
 
 <a href="mailto:uhug@naver.com"><img src="https://img.shields.io/badge/e--mail-uhug@naver.com-2ACE60?style=for-the-badge&logo=maildotru" alt="mail to"></a> <a href="https://www.linkedin.com/in/dokyoon2190/"><img src="https://img.shields.io/badge/LinkedIn-dokyoon2190-0D66C3?style=for-the-badge&logo=linkedin" alt="linked in"></a>
 <div class="sp"></div>
@@ -102,7 +94,7 @@ li::marker {
 🚀 [@DokySp Github](https://github.com/DokySp), [@DokySp-Study Github](https://github.com/DokySp-study) 
 -->
 
-<br><br><br>
+<br>
 
 ### **SKILLS**
 
@@ -115,16 +107,12 @@ li::marker {
 <li>Android (Kotlin)</li>
 </ol>
 
-<br>
-
 #### **Frontent**
 <div class="sp"></div>
 <ol>
 <li>React.js</li>
 <li>Bootstrap</li>
 </ol>
-
-<br>
 
 #### **Backend**
 <div class="sp"></div>
@@ -136,15 +124,14 @@ li::marker {
 <li>Firebase (FCM, Firestore)</li>
 </ol>
 
-<br>
-
 #### **Artificial Intelligent**
 <div class="sp"></div>
 <ol>
 <li>PyTorch</li>
 <li>Scikit Learn</li>
 </ol>
-<br><br><br>
+
+<br>
 
 ### **EDUCATION**
 
@@ -160,7 +147,7 @@ li::marker {
 - 전공 GPA: `4.40/4.5`
 - Honors: ***cum laude***
 
-<br><br>
+<br>
 
 #### **심석고등학교**
 ##### **일반계 자연계열**
@@ -169,7 +156,7 @@ li::marker {
 
 - 졸업 `2011.03 ~ 2014.02`
 
-<br><br><br>
+<br>
 
 ### **AWARDS**
 <div class="sp"></div>
@@ -180,7 +167,7 @@ li::marker {
 - 2017 제3회 가쳔대학교 창업경진대회 : `대상`
 - 2017 정글온 창업연구소 프로젝트 시장조사부문 : `최우수상`
 
-<br><br><br>
+<br>
 
 ### **CERTIFICATIONS**
 <div class="sp"></div>
@@ -188,11 +175,11 @@ li::marker {
 - `2021.08` 지속가능경영재단 디자인씽킹 퍼실리테이터 양성과정 `수료`
 - `2022.08` OPIc `IH`
 
-<br><br><br>
+<br>
 
 ---
 
-<br><br><br>
+<br>
 
 ### **WORK EXPERIENCE**
 
@@ -204,7 +191,7 @@ li::marker {
 
 - 2023.01~Present
 
-<br><br>
+<br>
 
 <div class="sp"></div>
 
@@ -222,7 +209,7 @@ li::marker {
 
 </details>
 
-<br><br><br>
+<br>
 
 #### **가천대학교 SW중심대학사업단**
 ##### **동계 실습조교 - 프론트엔드 (React.js)**
@@ -242,7 +229,7 @@ li::marker {
 
 </details>
 
-<br><br><br>
+<br>
 
 #### **케이브**
 ##### **프리랜서 활동**
@@ -274,7 +261,7 @@ li::marker {
 
 </details>
 
-<br><br><br>
+<br>
 
 #### **하이코어 기술개발본부**
 ##### **소프트웨어 개발 (Flutter, 서버)**
@@ -300,7 +287,7 @@ li::marker {
 
 </details>
 
-<br><br><br>
+<br>
 
 #### **온투업 콘텐츠개발팀**
 ##### **소프트웨어 개발 (PM)**
@@ -324,7 +311,7 @@ li::marker {
 
 </details>
 
-<br><br><br>
+<br>
 
 #### **라피스**
 ##### **3D 프린팅 솔루션 업체 대표**
@@ -354,11 +341,11 @@ li::marker {
 
 </details>
 
-<br><br><br>
+<br>
 
 ---
 
-<br><br><br>
+<br>
 
 ### **EXPERIENCE**
 
@@ -372,7 +359,7 @@ li::marker {
 - 삼성전자 CSR에서 운영했던 주니어소프트웨어 아카데미에 멘토로 참가하여 대상 학교인 심석고등학교에서 학생들에게 아두이노를 가르치고 프로젝트 진행을 도왔습니다.
 - [삼성전자 뉴스룸 기사](https://news.samsung.com/kr/%EC%A3%BC%EC%86%8C%EC%95%84-%ED%95%B4%EC%BB%A4%ED%86%A4-%EB%B9%85%EC%BA%A0%ED%94%84-%ED%98%84%EC%9E%A5%EC%97%90-%EA%B0%80%EB%8B%A4)
 
-<br><br>
+<br>
 
 #### **심석고등학교 방과후강사**
 
@@ -382,7 +369,7 @@ li::marker {
 - 아두이노, 코딩, 창업 수업과 교내 개발 커뮤니티 활성화를 위한 행사, 고등학생들이 지역 취약계층에게 솔루션을 제공하는 프로젝트를 기획 및 진행하였습니다.
 - 지역 초·중·고 학생을 위한 Flutter, p5.js, 아두이노, 인공지능 개념 학습을 위해 보조강사와 함께 강의 제작 및 진행을 했으며, 학생들의 창업 대회 기술 멘토링을 했었습니다.
 
-<br><br>
+<br>
 
 #### **하눌신폭 교내 동아리 활동**
 
@@ -392,7 +379,7 @@ li::marker {
 - 게임 제작 동아리였으며, 아두이노와 블루투스, IMU 센서를 이용하여 가족이 함께 협동하여 문제를 해결하는 퍼즐게임의 조이스틱을 설계 및 개발했습니다.
 - [2015 Applied Game Jam 참가](https://dk.breaknews.com/75948), [행사 관련 자료](https://www.facebook.com/GPS-1032778300068497)
 
-<br><br>
+<br>
 
 #### **미국 PeopleSpace 인턴십**
 
@@ -402,17 +389,11 @@ li::marker {
 - 학과 내 해외 인턴십 프로그램에 선발되었습니다. 미국 캘리포니아의 스타트업 인큐베이터 업체에서 창업 수업 및 CES를 견학하면서 기업가정신과 창업에 대해 배웠습니다.
 - [PeopleSpace AI Studio Program](https://peoplespace.us/ai-studio/)
 
-<br><br>
-
-
-
-
-
-<br><br><br>
+<br>
 
 ---
 
-<br><br><br>
+<br>
 
 ### **PROJECTS**
 
@@ -427,7 +408,7 @@ li::marker {
 - 내용
 - 링크
 
-<br><br>
+<br>
 
 
 #### **MoDU 프로젝트**
@@ -439,7 +420,7 @@ li::marker {
 - 내용
 - 링크
 
-<br><br>
+<br>
 
 #### **Hint Based Image Colorization**
 ##### **교내 프로젝트**
@@ -450,7 +431,7 @@ li::marker {
 - 내용
 - 링크
 
-<br><br>
+<br>
 
 #### **PlayStore 별점 요인 분석**
 ##### **교내 프로젝트**
@@ -461,7 +442,7 @@ li::marker {
 - 내용
 - 링크
 
-<br><br>
+<br>
 
 #### **[GCRS] Gachon Classroom Reservation Service**
 ##### **교내 프로젝트**
@@ -472,7 +453,7 @@ li::marker {
 - 내용
 - 링크
 
-<br><br>
+<br>
 
 #### **BrickCraft**
 ##### **교내 프로젝트 / 창업**
@@ -483,7 +464,7 @@ li::marker {
 - 내용
 - 링크
 
-<br><br>
+<br>
 
 
 #### **졸업작품 [Double D]**
@@ -495,7 +476,7 @@ li::marker {
 - 내용
 - 링크
 
-<br><br>
+<br>
 
 
 #### **군장병 공개 SW 집체교육**
@@ -507,7 +488,7 @@ li::marker {
 - 내용
 - 링크
 
-<br><br>
+<br>
 
 #### **Doky의 백준 문제풀이**
 ##### **개인 스터디**
@@ -518,7 +499,7 @@ li::marker {
 - 내용
 - 링크
 
-<br><br>
+<br>
 
 #### **Team KELLY [시작이반이다 앱]**
 ##### **대외 프로젝트**
@@ -529,6 +510,6 @@ li::marker {
 - 내용
 - 링크
 
-<br><br><br>
+<br>
 
-##### ⓒ Dokyoon Kim. 2021
+##### ⓒ Dokyoon Kim. 2024
