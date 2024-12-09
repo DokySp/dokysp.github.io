@@ -4,19 +4,11 @@ title:
 permalink: /cv/ko
 ---
 
-> ⚠️ 본 문서는 현재 작성중이므로 변경될 수 있음을 알립니다.<br>
-> (마지막 업데이트: 2023.02.27)<br>
-
-<br>
-
-<a target="_blank" href="https://doky.space/cv/en"><img src="https://img.shields.io/badge/read%20in-english-%23444444?style=for-the-badge&labelColor=111111" alt="read in english"></a>
-
-<br>
-
 <style>
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: -5px; }
 h5 { font-size: 16px; color: #AAA; }
-.sp {height: 7px;}
+.sp {height: 14px;}
+.sp2 {height: 28px;}
 b { color: #CCC; font-weight: normal; }
 strong { font-weight: 600; }
 
@@ -25,6 +17,8 @@ details {
    border: 1px solid #DDD;
    border-radius: 5px;
    padding: .5em .3em 0 0;
+   margin-left: -0.3em;
+   margin-top: 0.3em;
 }
 summary {
    font-weight: bold;
@@ -54,7 +48,7 @@ details[open] summary::marker {
 
 <style>
 ol {
-  margin: 0px 0px 0px .8em;
+  margin: 0px 0px 0px -0.9em;
   padding: 0;
   list-style: "|  ";
   display: grid;
@@ -62,7 +56,7 @@ ol {
   grid-template-columns: repeat(auto-fill, 225px);
 }
 ul {
-  margin: 0px 0px 0px .8em;
+  margin: 0px 0px 0px -0.9em;
   padding: 0;
   list-style: "|  ";
   display: grid;
@@ -75,18 +69,31 @@ li::marker {
 }
 </style>
 
-<font size=64>🌏</font>
+> ⚠️ 본 문서는 현재 작성중이므로 변경될 수 있음을 알립니다.<br>
+> (마지막 업데이트: 2023.02.27)<br>
+
+<br>
+
+<a target="_blank" href="https://doky.space/cv/en"><img src="https://img.shields.io/badge/read%20in-english-%23444444?style=for-the-badge&labelColor=111111" alt="read in english"></a>
+
+<br><br><br>
+
+<font size=128>🌏</font>
 
 ## **김도균 (Dokyoon Tony Kim)**
 
 > 다양한 경험을 통해 넓은 시야를 가진 사람,<br>
-> 탄탄한 기술 기반으로 주어진 문제를 해결할 수 있는 공학자가 되고 싶습니다.
+> 탄탄한 기술 기반으로 주어진 문제를 해결할 수 있는 공학자가 되고 싶습니다.<br>
+
+<br>
 
 👨‍💻 Android & Flutter Developer<br>
 🇰🇷 Republic of Korea<br>
 
+<br>
+
 <a href="mailto:uhug@naver.com"><img src="https://img.shields.io/badge/e--mail-uhug@naver.com-2ACE60?style=for-the-badge&logo=maildotru" alt="mail to"></a> <a href="https://www.linkedin.com/in/dokyoon2190/"><img src="https://img.shields.io/badge/LinkedIn-dokyoon2190-0D66C3?style=for-the-badge&logo=linkedin" alt="linked in"></a>
-<div class="sp"></div>
+<br>
 <a href="https://github.com/DokySp"><img src="https://img.shields.io/badge/github-dokysp-24282F?style=for-the-badge&logo=github" alt="github/dokysp"></a> <a href="https://github.com/DokySp-study"><img src="https://img.shields.io/badge/github-DokySp--study-24282F?style=for-the-badge&logo=github" alt="github/doky-study"></a>
 
 <!--
@@ -94,28 +101,26 @@ li::marker {
 🚀 [@DokySp Github](https://github.com/DokySp), [@DokySp-Study Github](https://github.com/DokySp-study) 
 -->
 
-<br>
+<br><br>
 
 ### **SKILLS**
 
-<div class="sp"></div>
-
 #### **Application**
-<div class="sp"></div>
+
 <ol>
 <li>Flutter</li>
 <li>Android (Kotlin)</li>
 </ol>
 
 #### **Frontent**
-<div class="sp"></div>
+
 <ol>
 <li>React.js</li>
 <li>Bootstrap</li>
 </ol>
 
 #### **Backend**
-<div class="sp"></div>
+
 <ol>
 <li>Node.js, Express.js</li>
 <li>MySQL, NoSQL(MongoDB)</li>
@@ -125,17 +130,15 @@ li::marker {
 </ol>
 
 #### **Artificial Intelligent**
-<div class="sp"></div>
+
 <ol>
 <li>PyTorch</li>
 <li>Scikit Learn</li>
 </ol>
 
-<br>
+<br><br>
 
 ### **EDUCATION**
-
-<div class="sp"></div>
 
 #### **가천대학교**
 ##### **AI·소프트웨어학부 소프트웨어학과**
@@ -156,9 +159,10 @@ li::marker {
 
 - 졸업 `2011.03 ~ 2014.02`
 
-<br>
+<br><br>
 
 ### **AWARDS**
+
 <div class="sp"></div>
 
 - 2016 제3회 서울 IoT 해커톤 : `우수상`
@@ -167,40 +171,39 @@ li::marker {
 - 2017 제3회 가쳔대학교 창업경진대회 : `대상`
 - 2017 정글온 창업연구소 프로젝트 시장조사부문 : `최우수상`
 
-<br>
+<br><br>
 
 ### **CERTIFICATIONS**
+
 <div class="sp"></div>
 
 - `2021.08` 지속가능경영재단 디자인씽킹 퍼실리테이터 양성과정 `수료`
 - `2022.08` OPIc `IH`
 
-<br>
+<br><br>
 
 ---
 
-<br>
+<br><br>
 
 ### **WORK EXPERIENCE**
 
-<div class="sp"></div>
-
 #### **삼성전자 DX부문 MX사업부**
 ##### **SW직군**
+
 <div class="sp"></div>
 
 - 2023.01~Present
 
 <br>
 
-<div class="sp"></div>
-
 #### **삼성전자 DX부문 MX사업부**
 ##### **SW직군 인턴 - 안드로이드**
+
 <div class="sp"></div>
 
 - 2022.07~2022.08
-<div class="sp"></div><div class="sp"></div>
+
 
 <details>
 <summary>상세 내용</summary>
@@ -209,15 +212,15 @@ li::marker {
 
 </details>
 
-<br>
+<br><br>
 
 #### **가천대학교 SW중심대학사업단**
 ##### **동계 실습조교 - 프론트엔드 (React.js)**
+
 <div class="sp"></div>
 
 - 2021.12~2022.02
 - [https://slam.gachon.ac.kr](https://slam.gachon.ac.kr)
-<div class="sp"></div><div class="sp"></div>
 
 <details>
 <summary>상세 내용</summary>
@@ -229,23 +232,22 @@ li::marker {
 
 </details>
 
-<br>
+<br><br>
 
 #### **케이브**
 ##### **프리랜서 활동**
+
 <div class="sp"></div>
 
 - 2021.05~2022.11
 - [https://doky.space/kave](https://doky.space/kave)
-<div class="sp"></div>
 
+<div class="sp2"></div>
 &nbsp;**관련 프로젝트**
 <div class="sp"></div>
 
 - 필라테스
 - 보험 설계 계산 앱
-
-<div class="sp"></div><div class="sp"></div>
 
 <details>
 <summary>상세 내용</summary>
@@ -261,15 +263,15 @@ li::marker {
 
 </details>
 
-<br>
+<br><br>
 
 #### **하이코어 기술개발본부**
 ##### **소프트웨어 개발 (Flutter, 서버)**
+
 <div class="sp"></div>
 
 - 2020.08~2021.04
 - [https://hycore.com](https://hycore.com)
-<div class="sp"></div><div class="sp"></div>
 
 <details>
 <summary>상세 내용</summary>
@@ -287,13 +289,13 @@ li::marker {
 
 </details>
 
-<br>
+<br><br>
 
 #### **온투업 콘텐츠개발팀**
 ##### **소프트웨어 개발 (PM)**
+
 <div class="sp"></div>
-<b>|&nbsp;&nbsp;</b>2018.06~2018.09<br>
-<div class="sp"></div><div class="sp"></div>
+- 2018.06~2018.09
 
 <details>
 <summary>상세 내용</summary>
@@ -311,15 +313,15 @@ li::marker {
 
 </details>
 
-<br>
+<br><br>
 
 #### **라피스**
 ##### **3D 프린팅 솔루션 업체 대표**
 <div class="sp"></div>
 
 - 2015.08~2018.04
-<div class="sp"></div>
 
+<div class="sp2"></div>
 &nbsp;**관련 프로젝트**
 <div class="sp"></div>
 
@@ -329,7 +331,6 @@ li::marker {
 - 2017 에듀테크기업 부스 기획/운영
 - 2017 대한민국과학창의축전 에듀테크 부스 기획/운영
 - 2017 삼성미래교실컨퍼런스 부스 기획/운영
-<div class="sp"></div><div class="sp"></div>
 
 <details>
 <summary>상세 내용</summary>
@@ -341,19 +342,15 @@ li::marker {
 
 </details>
 
-<br>
+<br><br>
 
 ---
 
-<br>
+<br><br>
 
 ### **EXPERIENCE**
 
-<div class="sp"></div>
-
 #### **삼성 주니어소프트웨어아카데미 멘토**
-
-<div class="sp"></div>
 
 - 2016.08~2016.12
 - 삼성전자 CSR에서 운영했던 주니어소프트웨어 아카데미에 멘토로 참가하여 대상 학교인 심석고등학교에서 학생들에게 아두이노를 가르치고 프로젝트 진행을 도왔습니다.
@@ -363,8 +360,6 @@ li::marker {
 
 #### **심석고등학교 방과후강사**
 
-<div class="sp"></div>
-
 - 2017.01~2018.10 / 2021.06~2021.12
 - 아두이노, 코딩, 창업 수업과 교내 개발 커뮤니티 활성화를 위한 행사, 고등학생들이 지역 취약계층에게 솔루션을 제공하는 프로젝트를 기획 및 진행하였습니다.
 - 지역 초·중·고 학생을 위한 Flutter, p5.js, 아두이노, 인공지능 개념 학습을 위해 보조강사와 함께 강의 제작 및 진행을 했으며, 학생들의 창업 대회 기술 멘토링을 했었습니다.
@@ -372,8 +367,6 @@ li::marker {
 <br>
 
 #### **하눌신폭 교내 동아리 활동**
-
-<div class="sp"></div>
 
 - 2015.03~2021.06
 - 게임 제작 동아리였으며, 아두이노와 블루투스, IMU 센서를 이용하여 가족이 함께 협동하여 문제를 해결하는 퍼즐게임의 조이스틱을 설계 및 개발했습니다.
@@ -383,24 +376,21 @@ li::marker {
 
 #### **미국 PeopleSpace 인턴십**
 
-<div class="sp"></div>
-
 - 2016.12~2017.02
 - 학과 내 해외 인턴십 프로그램에 선발되었습니다. 미국 캘리포니아의 스타트업 인큐베이터 업체에서 창업 수업 및 CES를 견학하면서 기업가정신과 창업에 대해 배웠습니다.
 - [PeopleSpace AI Studio Program](https://peoplespace.us/ai-studio/)
 
-<br>
+<br><br>
 
 ---
 
-<br>
+<br><br>
 
 ### **PROJECTS**
 
-<div class="sp"></div>
-
 #### **Postagram**
 ##### **개인 스터디**
+
 <div class="sp"></div>
 
 - 2022.07~2022.08
@@ -410,9 +400,9 @@ li::marker {
 
 <br>
 
-
 #### **MoDU 프로젝트**
 ##### **현대자동차 제로원**
+
 <div class="sp"></div>
 
 - 기간
@@ -424,6 +414,7 @@ li::marker {
 
 #### **Hint Based Image Colorization**
 ##### **교내 프로젝트**
+
 <div class="sp"></div>
 
 - 기간
@@ -435,6 +426,7 @@ li::marker {
 
 #### **PlayStore 별점 요인 분석**
 ##### **교내 프로젝트**
+
 <div class="sp"></div>
 
 - 기간
@@ -446,6 +438,7 @@ li::marker {
 
 #### **[GCRS] Gachon Classroom Reservation Service**
 ##### **교내 프로젝트**
+
 <div class="sp"></div>
 
 - 기간
@@ -457,6 +450,7 @@ li::marker {
 
 #### **BrickCraft**
 ##### **교내 프로젝트 / 창업**
+
 <div class="sp"></div>
 
 - 기간
@@ -469,6 +463,7 @@ li::marker {
 
 #### **졸업작품 [Double D]**
 ##### **교내 프로젝트**
+
 <div class="sp"></div>
 
 - 기간
@@ -481,6 +476,7 @@ li::marker {
 
 #### **군장병 공개 SW 집체교육**
 ##### **대한민국 국방부**
+
 <div class="sp"></div>
 
 - 기간
@@ -492,6 +488,7 @@ li::marker {
 
 #### **Doky의 백준 문제풀이**
 ##### **개인 스터디**
+
 <div class="sp"></div>
 
 - 기간
@@ -503,6 +500,7 @@ li::marker {
 
 #### **Team KELLY [시작이반이다 앱]**
 ##### **대외 프로젝트**
+
 <div class="sp"></div>
 
 - 기간
@@ -510,6 +508,6 @@ li::marker {
 - 내용
 - 링크
 
-<br>
+<br><br><br>
 
 ##### ⓒ Dokyoon Kim. 2024
